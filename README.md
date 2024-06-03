@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Full-Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" alt="developer animation">
+  <img src="https://www.example.com/professional-developer-photo.jpg" width="400" height="300" alt="Professional Developer Photo">
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -72,6 +72,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a> 
 </p>
-
-
-
