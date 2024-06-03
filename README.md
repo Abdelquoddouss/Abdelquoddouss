@@ -2,7 +2,7 @@
 <h3 align="center">Développeur Full-Stack</h3>
 
 <p align="center">
-  <img src="https://www.example.com/professional-developer-photo.jpg" width="400" height="300" alt="Professional Developer Photo">
+  <img src="https://i.imgur.com/6uhr7lF.jpg" width="400" height="300" alt="Professional Developer Photo">
 </p>
 
 <h3 align="left">Connect with me:</h3>
